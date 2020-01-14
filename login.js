@@ -9,7 +9,13 @@ export class Login extends React.Component{
  }
   render(){
     return(
-      <h1>Chethan</h1>
+      <div>
+      <form>
+      UserName: <input type="text"/><br/>
+      Password: <input type="passsword"/><br/>
+      <button>Login</button>
+      </form>
+      </div>
     );
   }
 }

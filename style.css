@@ -1,3 +1,24 @@
 h1, p {
   font-family: Lato;
 }
+
+
+
+.aln{
+text-align: right
+}
+
+.lgtop{
+margin-top: 100px;
+font-weight: bold;
+}
+
+.lgbtn{
+  margin-top: 30px;
+  margin-right:90px; 
+}
+/* .cent{
+margin-left: 10%;
+margin-right: 10%;
+width: 100%;
+} */

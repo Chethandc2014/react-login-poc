@@ -29,7 +29,7 @@ export class Login extends React.Component{
                 <label htmlFor="pwd">Password:</label>
               </div>
               <div className="col-md-6 col-lg-3">
-              <input type="password"  className="form-control"v id="pwd"/>
+              <input type="password"  className="form-control" id="pwd"/>
               </div>
           </div>
           <div className="row justify-content-center">
